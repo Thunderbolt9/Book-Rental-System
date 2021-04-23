@@ -21,12 +21,7 @@ A Python project using concepts of Object Oriented Programming.
 
 #### Install python according to your operating system.
 [Python Download](https://www.python.org/downloads/)
-#### Install Jupyter Notebook.
-[Jupyter Notebook](https://jupyter.org/install)
-#### Install Seaborn.
-[Seaborn](https://seaborn.pydata.org/installing.html)
-#### Install Pandas.
-[Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+
 #### Install git according to your operating system.
 [Git download](https://git-scm.com/downloads)
 
